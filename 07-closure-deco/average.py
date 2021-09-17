@@ -31,3 +31,4 @@ def make_averager():
         return total/len(series)
 
     return averager
+
