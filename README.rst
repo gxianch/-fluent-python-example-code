@@ -11,4 +11,6 @@ Example code for the book `Fluent Python, First Edition` by Luciano Ramalho (O'R
 
 * No promises. No guarantees. Use at own risk.
 
-.. _Fluent Python: http://shop.oreilly.com/product/0636920032519.do 
+.. _Fluent Python: http://shop.oreilly.com/product/0636920032519.do
+
+![image](https://github.com/gxianch/fluent-python-example-code/blob/master/cover.jpg)
